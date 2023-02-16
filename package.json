@@ -1,6 +1,6 @@
 {
   "name": "socra",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "socra official public repository",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
